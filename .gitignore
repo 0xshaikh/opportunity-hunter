@@ -1,0 +1,7 @@
+venv/
+data/*.db
+data/*.json
+logs/
+targets/
+__pycache__/
+*.pyc
